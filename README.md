@@ -1,8 +1,9 @@
 # RidePal Web Application - Frontend Documentation (Demo Version)
 
-This is a **demo** of the frontend for the RidePal web application, a platform designed to create personalized playlists based on users' music preferences and travel durations. The demo showcases the user interface and functionalities such as playlist generation, browsing, and user profile management. 
+This is a **demo** of the frontend for the RidePal web application, a platform designed to create personalized playlists based on users' music preferences and trip durations. The demo showcases the user interface and functionalities such as playlist generation, browsing, and user profile management. 
 
-The demo does not include the backend services for playlist creation, user authentication, or data persistence but provides an overview of the key frontend features and interactions.
+You can also explore a live demo of the frontend via this link:  
+[Live Demo of RidePal Frontend](https://roadbeat.netlify.app/)
 
 ![Home Page](https://github.com/atanas-hristozov/RidePal/blob/main/RidePal/src/main/resources/static/img_documentation/Home_Page.JPG)
 
@@ -28,7 +29,7 @@ The demo does not include the backend services for playlist creation, user authe
 ## Main Functionalities
 
 ### 1. Playlist Generation
-- Users can input starting and destination addresses, choose travel mode (car or foot), and select preferred genres.
+- Users can input their starting and destination addresses, choose travel mode (car or foot), and select preferred genres.
 - The demo shows how playlists would be generated based on travel duration, though the actual generation process is simulated in this frontend demo.
 
 ![Playlist Generation](https://github.com/atanas-hristozov/RidePal/blob/main/RidePal/src/main/resources/static/img_documentation/Playlist.JPG)
